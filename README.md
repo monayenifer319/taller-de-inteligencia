@@ -1,1 +1,1 @@
-# taller-de-inteligencia
+# taller2-de-inteligencia
